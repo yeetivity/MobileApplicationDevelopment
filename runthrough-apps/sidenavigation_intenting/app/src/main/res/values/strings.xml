@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">sidenavigation</string>
+    <string name="home">Home</string>
+    <string name="results">results</string>
+    <string name="settings">settings</string>
+    <string name="open">OPEN</string>
+    <string name="close">CLOSE</string>
+</resources>
